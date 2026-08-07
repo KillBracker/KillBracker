@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KillBracker
-- 👀 I’m interested in anime and gay porn 😏
-- 🌱 I’m currently learning HTML
-- 📫 How to reach me https://discord.gg/C5HYb3sN
+- 👀 I’m interested in anime and gachimuchi 😏
+- 🌱 I’m currently learning nihya
+- 📫 How to reach me [https://killbracker.pages.dev/]
 
 <!---
 KillBracker/KillBracker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
